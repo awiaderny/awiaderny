@@ -5,21 +5,17 @@
 
 # My projects
 
-## E-commerce website (Fullstack Web App)
-
-- [View Website Demo for the E-commerce website](https://ecommerce-website36.herokuapp.com/)
-
-- [Source Code for the E-commerce website](https://github.com/awiaderny/ecommerce-pub)
-
 ## Restaurant website (Serverless Web App)
 
-- [View Website Demo for the Restaurant website](https://www.awiadernyrestaurant.xyz/)
+- [View Website Demo for the Restaurant website](https://www.awrestaurant.ovh/)
 
 - [Source Code for the Restaurant website](https://github.com/awiaderny/restaurant-pub)
 
-## Adopt an animal - MVP - (Web App made from scratch without frameworks)
+## E-commerce website (Fullstack Web App)
 
-- [View Website Demo for the Adopt an animal website](https://awiaderny.github.io/webpack-testing/)
+- [Source Code for the E-commerce website](https://github.com/awiaderny/ecommerce-pub)
+
+## Adopt an animal - MVP - (Web App made from scratch without frameworks)
 
 - [Source Code for the Adopt an animal website](https://github.com/awiaderny/webpack-testing-pub)
 
