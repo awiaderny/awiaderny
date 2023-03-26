@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrzej</h1>
 <h3 align="center">A passionate Full Stack Developer from Poland</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.awiaderny.com/](https://www.awiaderny.com/)
-
 # My projects
 
 ## Restaurant website (Serverless Web App)
